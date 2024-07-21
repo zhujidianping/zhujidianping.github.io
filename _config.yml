@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: thomas@zhujidianping.com
 description: "主机点评主要是分享与推荐免费VPS、国内VPS、国外VPS、服务器、云服务器的优惠、国外主机测评、虚拟主机点评等,本站提供免费投稿"
 keyword: "主机点评, 主机测评, VPS, VPS测评, 云服务器, 服务器, zhujidianping, zhujidianping Blog, 博客, 个人网站, 互联网, 新加坡服务器, 香港VPS, 新加坡VPS, VPS优惠, 香港服务器, 便宜VPS"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://zhujidianping.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: zhujidianping
+zhihu_username: zhujidianping
+github_username: zhujidianping
+twitter_username: zhujidianping
+#facebook_username:  主机点评
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -91,12 +91,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
+    { title: "主机点评", href: "https://www.zhujidianping.com/" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    
   ]
