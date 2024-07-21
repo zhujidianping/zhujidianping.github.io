@@ -2,9 +2,9 @@
 title: 主机点评 Blog
 SEOTitle: 主机点评的博客 | 主机点评 Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+email: thomas@zhujidianping.com
+description: "主机点评主要是分享与推荐免费VPS、国内VPS、国外VPS、服务器、云服务器的优惠、国外主机测评、虚拟主机点评等,本站提供免费投稿"
+keyword: "主机点评, 主机测评, VPS, VPS测评, 云服务器, 服务器, zhujidianping, zhujidianping Blog, 博客, 个人网站, 互联网, 新加坡服务器, 香港VPS, 新加坡VPS, VPS优惠, 香港服务器, 便宜VPS"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
